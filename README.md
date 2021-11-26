@@ -58,12 +58,19 @@ Open source Brawl Stars server emulator for version 26 of the game! thanks Phoen
 ## Configure client
 To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://mega.nz/file/vSIDFKaT#pDdGFkevXwp_3LP1wW1wtj23Gj2aADZwzfXAAI8JEs8). Just replace the IP in the frida-gadget config with yours (```/lib/armeabi-v7a/libgg.config.so```) ```{"interaction":{"interaction":{"type":"script","path":"libscript.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP","relocate":true}}}```
 
+## Configure client on pc
+Open "main.py" and find "server = Server('0.0.0.0', 9339)", change "0.0.0.0" to your ip. Start and play!
+
 ## Authors
 
 👤 **PhoenixFire** (main developer)
 
 * Github: [@PhoenixFire6879](https://github.com/PhoenixFire6879)
 * Discord: PhoenixFire#6879
+
+👤 **NyanAlex**
+* Github: [@PhoenixFire6879](https://github.com/NyanAlex)
+* Discord: Тюлень[NyanAlexYT]#0712
 
 👤 **Crazor**
 
