@@ -4,9 +4,7 @@ Brawl Stars v26.184 server emulator written in Python.
 
 Open source Brawl Stars server emulator for version 26 of the game! thanks PhoenixFire!
 
-
-![ScreenShot]
-
+![com brawlstars v26](https://user-images.githubusercontent.com/85035681/143640243-740eda83-d03d-4dd4-82c7-44d8926201c0.png)
 
 ## What's working ?
 - Battles
