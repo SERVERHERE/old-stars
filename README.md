@@ -69,7 +69,7 @@ Open "main.py" and find "server = Server('0.0.0.0', 9339)", change "0.0.0.0" to 
 * Discord: PhoenixFire#6879
 
 👤 **NyanAlex**
-* Github: [@PhoenixFire6879](https://github.com/NyanAlex)
+* Github: [@NyanAlex](https://github.com/NyanAlex)
 * Discord: Тюлень[NyanAlexYT]#0712
 
 👤 **Crazor**
