@@ -1,8 +1,8 @@
 # old-stars
-Simple Brawl Stars v26.184 server emulator written in Python.
-<h1 align="center">Welcome to Classic-Brawl 👋</h1>
+Brawl Stars v26.184 server emulator written in Python.
+<h1 align="center">Welcome to Old-Brawl 👋</h1>
 
-Open source Brawl Stars server emulator for version 26 of the game!
+Open source Brawl Stars server emulator for version 26 of the game! thanks PhoenixFire!
 
 
 ![ScreenShot]
@@ -13,12 +13,12 @@ Open source Brawl Stars server emulator for version 26 of the game!
   - Trophies in offline battles
 - Home
   - Unlimited resources
-  - Brawlers from boxes  
+  - Brawlers from boxes (if all brawlers don't with all star power's and gadget's)
   - All skins unlocked
   - Gadgets and Star Powers
 - Shop
-  - Special offers
-  - Boxes
+  - Special offers (not all time)
+  - Boxes (if all brawlers don't with all star power's and gadget's)
   - Gold and other resources 
 - Club
   - Join
@@ -33,7 +33,7 @@ Open source Brawl Stars server emulator for version 26 of the game!
 ## Prerequisites
 
 - python 3.7
-
+- tinydb
 
 
 
@@ -60,17 +60,6 @@ Open source Brawl Stars server emulator for version 26 of the game!
 ## Configure client
 To connect to your server, you need a custom client. Here the only solution is to use a [pre-made client](https://mega.nz/file/vSIDFKaT#pDdGFkevXwp_3LP1wW1wtj23Gj2aADZwzfXAAI8JEs8). Just replace the IP in the frida-gadget config with yours (```/lib/armeabi-v7a/libgg.config.so```) ```{"interaction":{"interaction":{"type":"script","path":"libscript.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP","relocate":true}}}```
 
-
-
-
-
-
-
-#### Need help? Join [our Discord support server](https://discord.gg/2t4QXyuSKW)
-
-
-
-
 ## Authors
 
 👤 **PhoenixFire** (main developer)
@@ -90,7 +79,7 @@ Special thanks to:
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/PhoenixFire6879/Classic-Brawl/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/NyanAlex/old-stars/issues).
 
 ## Show your support
 
